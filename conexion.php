@@ -9,5 +9,4 @@
     echo "Linea del error" . $e->getLine();
   }
 
-
  ?>
